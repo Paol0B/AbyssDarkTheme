@@ -4,8 +4,8 @@
     <vendor>paol0b</vendor>
     <description><![CDATA[
         A pure black UI theme for IntelliJ IDEA inspired by the JetBrains Fleet aesthetic.
-        Based on Islands Dark, this theme replaces the UI appearance with Fleet's clean,
-        minimal pure-black style while keeping the default editor color scheme untouched.
+        Based on Islands Dark, this theme replaces both UI appearance and editor syntax
+        highlighting with Fleet's clean, minimal pure-black style and distinctive color palette.
     ]]></description>
 
     <depends>com.intellij.modules.platform</depends>
