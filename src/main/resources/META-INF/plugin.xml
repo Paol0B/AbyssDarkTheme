@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.github.paol0b.fleet-dark-theme</id>
     <name>Fleet Dark Theme</name>
-    <vendor>paol0b</vendor>
+    <vendor url="https://github.com/paol0b/FleetDarkTheme">Paolo Bertinetti</vendor>
     <description><![CDATA[
         <p>Bring the sleek, minimal aesthetic of <b>JetBrains Fleet</b> to IntelliJ IDEA and all JetBrains IDEs.</p>
 

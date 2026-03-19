@@ -34,7 +34,8 @@ intellijPlatform {
         }
 
         vendor {
-            name = "paol0b"
+            name = "Paolo Bertinetti"
+            url = "https://github.com/paol0b/FleetDarkTheme"
         }
 
         description = """

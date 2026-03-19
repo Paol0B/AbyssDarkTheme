@@ -1,7 +1,7 @@
 {
   "name": "Fleet Dark",
   "dark": true,
-  "author": "paol0b",
+  "author": "Paolo Bertinetti",
   "editorScheme": "/themes/fleet_dark.xml",
   "colors": {
     "white": "#FFFFFF",
