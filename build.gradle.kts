@@ -24,8 +24,8 @@ dependencies {
 
 intellijPlatform {
     pluginConfiguration {
-        id = "${providers.gradleProperty("pluginGroup").get()}.fleet-dark-theme"
-        name = providers.gradleProperty("pluginName")
+        id = "${providers.gradleProperty("pluginGroup").get()}.abyss-dark"
+        name = "Abyss Dark"
         version = providers.gradleProperty("pluginVersion")
 
         ideaVersion {

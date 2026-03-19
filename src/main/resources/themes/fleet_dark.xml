@@ -1,10 +1,10 @@
-<scheme name="Fleet Dark" version="142" parent_scheme="Darcula">
+<scheme name="Abyss Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="created">2024-01-01T00:00:00</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2024.3.0.0</property>
     <property name="modified">2024-01-01T00:00:00</property>
-    <property name="originalScheme">Fleet Dark</property>
+    <property name="originalScheme">Abyss Dark</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="338555" />

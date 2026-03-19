@@ -1,8 +1,8 @@
-# Fleet Dark Theme
+# Abyss Dark
 
-> Bring the sleek, minimal aesthetic of [JetBrains Fleet](https://www.jetbrains.com/fleet/) to IntelliJ IDEA and all JetBrains IDEs.
+> A deep, minimal dark theme for IntelliJ IDEA and all JetBrains IDEs, inspired by the aesthetics of JetBrains Fleet.
 
-![Fleet Dark Theme](https://img.shields.io/badge/theme-Fleet%20Dark-18191B?style=for-the-badge&labelColor=090909)
+![Abyss Dark](https://img.shields.io/badge/theme-Abyss%20Dark-18191B?style=for-the-badge&labelColor=090909)
 ![JetBrains Plugin](https://img.shields.io/badge/JetBrains-Plugin-3871E1?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ---
@@ -47,9 +47,9 @@
 ### From JetBrains Marketplace
 
 1. Open **Settings** → **Plugins** → **Marketplace**
-2. Search for **Fleet Dark Theme**
+2. Search for **Abyss Dark**
 3. Click **Install** and restart the IDE
-4. Go to **Settings** → **Appearance & Behavior** → **Appearance** → Select **Fleet Dark**
+4. Go to **Settings** → **Appearance & Behavior** → **Appearance** → Select **Abyss Dark**
 
 ### Manual Installation
 
