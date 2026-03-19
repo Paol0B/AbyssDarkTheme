@@ -4,7 +4,6 @@
 
 ![Fleet Dark Theme](https://img.shields.io/badge/theme-Fleet%20Dark-18191B?style=for-the-badge&labelColor=090909)
 ![JetBrains Plugin](https://img.shields.io/badge/JetBrains-Plugin-3871E1?style=for-the-badge&logo=jetbrains&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-6DB083?style=for-the-badge)
 
 ---
 
