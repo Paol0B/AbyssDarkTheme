@@ -1075,8 +1075,48 @@
       "Merge.Status.NoConflicts.foreground": "#57965C"
     },
     "EditorPane": {
+      "background": "container-tool-window-bg",
       "splitBorder": "container-editor-border",
       "inactiveBackground": "container-dialog-bg"
+    },
+    "Panel.background": "container-tool-window-bg",
+    "Profiler": {
+      "ChartSlider.foreground": "text-muted",
+      "ChartSlider.lineColor": "text-secondary",
+      "CpuChart": {
+        "background": "#2E4D8940",
+        "borderColor": "blue-70",
+        "inactiveBackground": "#2E4D8920",
+        "inactiveBorderColor": "blue-60",
+        "pointBackground": "blue-90",
+        "pointBorderColor": "blue-80"
+      },
+      "MemoryChart": {
+        "background": "#4A357840",
+        "borderColor": "purple-70",
+        "inactiveBackground": "#4A357820",
+        "inactiveBorderColor": "purple-60",
+        "pointBackground": "purple-90",
+        "pointBorderColor": "purple-80"
+      },
+      "Timer.foreground": "text-default",
+      "Timer.disabledForeground": "text-secondary",
+      "Timer.background": "container-tool-window-bg",
+      "LiveChart.horizontalAxisColor": "text-secondary"
+    },
+    "CompilationCharts": {
+      "background.odd": "container-tool-window-bg",
+      "background.even": "layer-0-bg-inline",
+      "background.default": "container-tool-window-bg",
+      "lineColor": "text-secondary",
+      "textColor": "text-muted",
+      "memory.background": "#4A357830",
+      "memory.stroke": "purple-70",
+      "cpu.background": "#2E4D8930",
+      "cpu.stroke": "blue-70"
+    },
+    "ServiceView": {
+      "background": "container-tool-window-bg"
     },
     "WelcomeScreen": {
       "Details.background": "container-dialog-bg",
